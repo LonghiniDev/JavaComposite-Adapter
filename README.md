@@ -1,1 +1,0 @@
-JavaComposite-Adapter
